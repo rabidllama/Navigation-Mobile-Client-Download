@@ -1,0 +1,38 @@
+body {
+	font-family: Verdana, Arial;
+}
+
+a {
+	color: #666666;
+}
+
+#header {
+		width: 100%;
+		text-align: center;
+}
+
+#content {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20px;
+}
+
+.download {
+	width: 120px;
+}
+
+#download_section {
+	text-align: center;
+	width: 100%;
+}
+
+.download_links {
+	width: 120px;
+	margin: 100 auto;
+	text-align: center;
+}
+
+.info_text {
+	text-decoration: italic;
+	color: #666666;
+}
