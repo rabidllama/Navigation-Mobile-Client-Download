@@ -1,0 +1,64 @@
+body {
+	font-family: Verdana,Arial;
+	color: #444;
+}
+
+#main {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+h1 {
+	clear: both;
+	display: inline-block;
+	width: 100%;
+}
+
+h2 {
+	clear: both;
+	text-align: center;
+}
+
+.right {
+	float: right;	
+	margin-left: 10px;
+}
+
+.left {
+	float: left;
+	margin-right: 10px;	
+}
+
+q {
+	font-style: italic;
+}
+
+.left-header {
+	padding-right: 100px;
+	border-bottom: 4px solid #444;
+}
+
+.right-header {
+	padding-left: 100px;
+	border-bottom: 4px solid #444;
+	float: right;	
+}
+
+.screenshot {
+	height: 300px;
+}
+
+.app_icon {
+	height: 1.5em;
+	margin-bottom: -0.33em;
+	display: inline-block;
+}
+
+.image-span {
+	width: 100%;
+	text-align: center;
+}
+
+.post-header {
+	clear: both;
+}
